@@ -1,0 +1,71 @@
+2020-04-29 23:21:35 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.69\chromedriver.exe
+2020-04-29 23:47:40 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.69\chromedriver.exe
+2020-04-29 23:47:48 INFO  Logs:66 - ******************Check Customer ServiceDetails********************
+2020-04-29 23:47:50 INFO  Logs:81 - *********************Amazon Pay Details************************
+2020-04-29 23:48:00 INFO  Logs:88 - *******************Birthday Card successfully selected**************************
+2020-04-29 23:48:00 INFO  Logs:47 - ******************HomePage Verification*******************************
+2020-04-29 23:48:05 INFO  Logs:61 - ***********************Return to Homepage*********************
+2020-04-29 23:48:05 INFO  Logs:30 - *****************************SignIn ********************************
+2020-04-29 23:49:01 INFO  Logs:42 - **********************SignIn Successful*******************
+2020-05-02 16:28:53 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.69\chromedriver.exe
+2020-05-02 16:29:08 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-02 16:29:14 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-02 16:29:20 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
+2020-05-02 16:29:20 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-02 16:29:25 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-02 16:29:25 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-02 16:30:20 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-05 18:10:58 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.69\chromedriver.exe
+2020-05-07 23:00:26 INFO  WebDriverManager:1042 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-05-07 23:00:27 INFO  WebDriverManager:1042 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-05-07 23:00:27 INFO  Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/81.0.4044.138/chromedriver_win32.zip
+2020-05-07 23:00:27 INFO  Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/81.0.4044.138/chromedriver_win32.zip
+2020-05-07 23:00:29 INFO  Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+2020-05-07 23:00:29 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-07 23:00:33 INFO  Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+2020-05-07 23:00:34 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-07 23:00:41 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-07 23:00:41 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-07 23:00:44 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-07 23:00:44 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-07 23:00:51 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
+2020-05-07 23:00:51 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-07 23:00:51 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
+2020-05-07 23:00:51 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-07 23:00:56 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-07 23:00:56 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-07 23:00:57 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-07 23:00:57 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-07 23:01:52 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-07 23:01:54 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-18 14:48:09 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+2020-05-18 14:48:22 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-18 14:48:24 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-18 14:48:30 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
+2020-05-18 14:48:30 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-18 14:48:34 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-18 14:48:34 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-18 14:49:29 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-21 18:18:13 INFO  WebDriverManager:1042 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-05-21 18:18:14 INFO  Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+2020-05-21 18:18:16 INFO  Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+2020-05-21 18:18:17 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-21 18:18:58 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-21 18:19:10 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-21 18:19:12 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-21 18:19:13 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-21 18:20:10 INFO  WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Hp\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-05-21 18:20:24 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-21 18:21:27 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-21 18:21:27 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-21 18:21:53 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-21 18:21:53 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-21 18:22:05 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-21 18:22:21 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
+2020-05-25 16:14:50 INFO  Logs:32 - *****************************SignIn ********************************
+2020-05-25 16:15:46 INFO  Logs:44 - **********************SignIn Successful*******************
+2020-05-25 16:15:46 INFO  Logs:49 - ******************HomePage Verification*******************************
+2020-05-25 16:15:49 INFO  Logs:63 - ***********************Return to Homepage*********************
+2020-05-25 16:15:49 INFO  Logs:68 - ******************Check Customer ServiceDetails********************
+2020-05-25 16:15:53 INFO  Logs:83 - *********************Amazon Pay Details************************
+2020-05-25 16:15:59 INFO  Logs:90 - *******************Birthday Card successfully selected**************************
